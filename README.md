@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @z3r0one0
-- 👀 I’m interested in game development, cyber security, and software design.
-- 🌱 I’m currently learning Python, Unity, and basic cyber security concepts and software design principles.
-- 💞️ I’d love to collaborate on anything but admittedly my skill level is only around beginner/intermediate level.
-- 📫 How to reach me: theorize_thyself437@simplelogin.com
+- Hi, I’m @z3r0one0
+- I’m interested in game development, cyber security, and software design.
+- I’m currently expanding my skills with Python, Unity, and cyber security concepts and software design principles.
+- How to reach me: theorize_thyself437@simplelogin.com
